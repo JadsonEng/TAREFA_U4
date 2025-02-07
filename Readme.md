@@ -22,4 +22,4 @@ a seguinte tarefa prática.
 • Acionar o botão A, descrementa o número exibido na matriz de LEDs;
 • Acionar o botão B, incrementa o número exibido na matriz de LEDs.
 
-▶️ Link do vídeo: https://youtu.be/cuBatj16R-c
+▶️ Link do vídeo: https://youtu.be/FQpZldkGzjw
